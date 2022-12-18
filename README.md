@@ -1,4 +1,4 @@
-# Dasar Pemrogaman ESP32 Untuk Pemrosesan Data Input/Output Analog dan Digital (GPIO, PWN, ADC dan DAC)
+# Job 1 Dasar Pemrogaman ESP32 Untuk Pemrosesan Data Input/Output Analog dan Digital (GPIO, PWN, ADC dan DAC)
 
 ## Alat dan Bahan
 1. ESP32
