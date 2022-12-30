@@ -1,3 +1,7 @@
+Nama : Davin Marselon
+NIM : 4.31.20.1.07
+Kelas : TE-3B
+
 # Job 1 Dasar Pemrogaman ESP32 Untuk Pemrosesan Data Input/Output Analog dan Digital (GPIO, PWN, ADC dan DAC)
 
 ## Alat dan Bahan
